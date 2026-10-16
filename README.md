@@ -7,7 +7,7 @@ the pixi-policy wheel of the same version from PyPI, so nothing is compiled.
 ```yaml
 repos:
   - repo: https://github.com/aesir-oss/pixi-policy-pre-commit
-    rev: v0.2.0
+    rev: v0.3.0
     hooks:
       - id: pixi-policy
 ```
